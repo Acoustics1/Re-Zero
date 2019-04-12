@@ -1,2 +1,1 @@
-print "hello_world"
-something?
+print ("hello_world")
